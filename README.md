@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence and Machine Learning
 - 🌱 I’m currently working on college project
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me Email-smeethendre4@gmail.com, Linkedin-Smeet Hendre, Instagram-@smeethendre
+- 📫 How to reach me Email- smeethendre4@gmail.com, Linkedin-Smeet Hendre, Instagram-@smeethendre
 - 😄 Pronouns: He/Him
   
 
