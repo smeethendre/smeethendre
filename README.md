@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @smeethendre
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning C language 
-- 💞️ I’m looking to collaborate on open source and interesting projects
-- 📫 How to reach me Email-smeethendre4@gmail.com, Instagram-@smeethendre
+- 👀 I’m interested in Artificial intelligence and Machine Learning
+- 🌱 I’m currently working on college project
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me Email-smeethendre4@gmail.com, Linkedin-Smeet Hendre, Instagram-@smeethendre
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 
 
 <!---
 smeethendre/smeethendre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
