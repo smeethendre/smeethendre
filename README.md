@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me Email-smeethendre4@gmail.com, Linkedin-Smeet Hendre, Instagram-@smeethendre
 - 😄 Pronouns: He/Him
-- 
+  
 
 <!---
 smeethendre/smeethendre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
